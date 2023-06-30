@@ -1,0 +1,47 @@
+
+.button{
+    position: relative;
+    left: 100px;
+    width: 200px;
+    padding: 100px;
+   
+}
+.button1{
+    width: 50px;
+}
+.container3{
+    position: relative;
+    left:300px;
+}
+.table2{
+    position: relative;
+    left: 100px;
+    background-color: rgb(13, 22, 202);
+    border-radius: 10px;
+    width: 100px;
+    padding: 10px;
+}
+.table3{
+    position: relative;
+    right: 100px;
+    color: white;
+}
+.table4{
+    
+    width: 100px;
+
+}
+.dollar{
+    color:rgb(13, 22, 202);
+}
+.para{
+    font-style: bold;
+}
+.table7{
+    position: relative;
+    left: 100px;
+}
+.button2{
+    position: relative;
+    left: 300px;
+}
